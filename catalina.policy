@@ -1,3 +1,4 @@
+
 grant codeBase "file:${catalina.base}/webapps/demo/-" {
     permission java.security.AllPermission;
 };
